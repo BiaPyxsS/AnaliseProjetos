@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        a{
+            text-decoration: none;
+            color: rgb(255, 0, 0);
+        }
+
+        body {
+            background-color:#818181;
+            background-image: url("peças.jpg");
+            background-size: cover;
+        }
+
+        fieldset {
+            background-color: #B40000;
+            border: solid #FF0000;
+            border-radius: 9%;
+            border-width: 20px;
+            width: 18%;
+            align-items: center;
+            margin-left: 40%;
+           margin: auto;
+        }
+ 
+        input {
+            background-color: #FFFFFF;
+            border-radius: 9%;
+            border-color: #FFFFFF;
+            margin-left: 18%
+        }
+
+        label {
+            color: #f0f0f0;
+            text-decoration: bold;
+            margin-top: 0%;
+            border-radius: 30%;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        button {
+            color: #ff0000;
+            border-radius: 9%;
+            margin-left: 20%
+            
+        }
+ 
+        legend {
+            margin-top: 10%;
+            color: #ffffff;
+            border-radius: 30%;
+            margin-left: 20%
+        }
+        #botoes {
+            display: flex;
+        }
+
+        p {
+            color: #9F9F9F;
+            border-radius: 30%;
+            margin-left: 20%
+        }
+
+    </style>
+   
+    <title>Formulario Cliente</title>
+</head>
+<body>
+    <div class="box">
+        <form method="$POST">
+            <fieldset>
+                <legend><b> CADASTRO </b></legend>
+                <br>
+            <div class="inputBox">
+                <label for="cpf">CPF</label>
+                <input type="text" name="cpf" id="cpf" class="inputUser" required>
+            </div>
+            <br>
+            <div class="inputBox">
+                <label for="nome">Nome completo</label>
+                <input type="text" name="nome" id="nome" class="inputUser" required>
+            </div>
+            <br>
+            <div class="inputBox">
+                <label for="senha">Senha</label>
+                <input type="password" name="senha" id="senha" class="inputUser" required>
+            </div>
+            <br>
+            <div class="inputBox">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" class="inputUser" required>
+            </div>
+            <br>
+            <div class="inputBox">
+                <label for="data_nascimento">Data de Nascimento</label>
+                <input type="date" name="data_nascimento" id="data_nascimento" class="inputUser" required>
+            </div>
+            <br>
+            <label for="fone">Telefone</label>
+            <input type="tel" name="fone" id="fone" class="inputUser" required>
+            <br>
+            <br>
+            <div class="inputBox">
+                <label for="endereco">Endereço</label>
+                <input type="text" name="endereco" id="endereco" class="inputUser" required>
+            </div>
+            <br>
+            <div class="inputBox">
+                <label for="cidade">Cidade</label>
+                <input type="text" name="cidade" id="cidade" class="inputUser" required>
+            </div>
+            <br>
+            <div class="inputBox">
+                <label for="estado">Estado</label>
+                <input type="text" name="estado" id="estado" class="inputUser" required>
+            </div>
+            <br>
+            <p> Já possui um <a href="login.html">cadastro</a>?</p>
+            <div id="botoes"> 
+            <button> <a href="Prototipo7.1.html"> Voltar </a> </button>
+            <input type="submit" name="submit" id="submit">
+        </div>
+        </fieldset>
+        </form>
+    </div>
+</body>
+</html>
