@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T10:26:52.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.5" etag="-Y1_PREooLfmNr575eBJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T10:57:49.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0Ssagbub-WrLuC6rSjaF" version="24.5.5" type="github">
   <diagram name="Página-1" id="k6Kh1YuXnfWZMgNbIYFS">
-    <mxGraphModel>
+    <mxGraphModel dx="1600" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-1" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;CLIENTE" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-2" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;PECAS" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-3" value="D3&amp;nbsp; &amp;nbsp; &amp;nbsp;PEDIDOS" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-4" value="D5&amp;nbsp; &amp;nbsp; &amp;nbsp;VOLTS" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-5" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;FUNCIONARIOS" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-6" value="D6&amp;nbsp; &amp;nbsp; &amp;nbsp;AUTOMOVEL" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-7" value="D7&amp;nbsp; &amp;nbsp; &amp;nbsp;FABRICANTE" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-8" value="D8&amp;nbsp; &amp;nbsp; &amp;nbsp;ESTADO" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-9" value="D9&amp;nbsp; &amp;nbsp; &amp;nbsp;CIDADE" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-10" value="D10&amp;nbsp; &amp;nbsp;PESSOA FÍSICA" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-11" value="D11&amp;nbsp; &amp;nbsp;EMPRESA/PJ" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-12" value="CLIENTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-13" value="PEDIDOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-14" value="PECAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-15" value="P1&amp;nbsp;&lt;div&gt;CRUD CLIENTE&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-16" value="P2&lt;div&gt;CRUD PECAS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-17" value="P3&lt;div&gt;VERIFICAÇÃO SENHA&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-18" value="P4&lt;div&gt;CRUD ADM&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-19" value="P5&lt;div&gt;PEDIDO&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6jJylK3gi5rIJBSid2Mv-20" value="P6&lt;div&gt;ENCAMINHAMENTO&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
